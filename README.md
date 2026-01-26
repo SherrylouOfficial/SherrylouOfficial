@@ -1,11 +1,27 @@
 # 📌 Sherrylou Bas
 ## 🖳 Junior Web Developer | BS Computer Science Graduate
 
-I am an entry-level Junior Web Developer and a recent Bachelor of Science in Computer Science graduate from the Philippines. I focus on building clean, user-friendly web interfaces while developing a solid foundation in how front-end and back-end systems work together.
+<table>
+  <tr>
+    <td valign="top" width="20%">
+      <div align="center">  
+        <img src="" alt="Void Cat" width="250px" height="250px" />
+      </div>
+    </td>
+    <td valign="top">
+     <br>Hi! I'm a <strong>Junior Web Developer</strong> and a recent <strong>Computer Science graduate</strong> from the Philippines. My focus is on building clean, user-friendly web interfaces while strengthening the bridge between front-end aesthetics and back-end logic.
+      <br /><br />
+      I thrive on <strong>hands-on, project-based development</strong>. I prefer turning complex concepts into visual, working implementations that prioritize <strong>structured code and usability</strong>. 
+      <br /><br />
+      I am a disciplined, detail-oriented professional who excels in <strong>independent and remote environments</strong>. I'm constantly experimenting with new tools to build maintainable, user-focused web applications that solve real-world problems.<br><br>
+    </td>
+  </tr>
+</table>
 
-I learn best through hands-on, project-based development and prefer clear, visual explanations that translate concepts into working implementations. My work emphasizes structured code, usability, and reliable front-end/back-end interaction. While naturally reserved, I am detail-oriented, disciplined, and comfortable working independently or in remote team environments.
+---
 
-I am continuously expanding my technical skill set through personal projects and experimentation, to contribute to maintainable, user-focused web applications.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/basoffic/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sherryloubas@gmail.com) 
 
 ---
 
@@ -20,26 +36,6 @@ I am continuously expanding my technical skill set through personal projects and
 
 ---
 
-## 🌐 Portfolio & Deployment
-
-- [**Portfolio Website**](https://github.com/SherrylouOfficial/portfolio/blob/main/README.md)  
-  A fully functional personal portfolio showcasing my projects, with active links to email, LinkedIn, GitHub, and direct email messaging.
-
----
-
-## 📂 Projects Highlights
-
-- [**Login Registration System**](https://github.com/SherrylouOfficial/Login-Registration-DB)  
-  A Web application demonstrating front-end and back-end interaction using PHP and MySQL in a local XAMPP environment, including form handling, validation, and basic access control.
-  
-- [**Web UI Projects**](https://github.com/SherrylouOfficial/Login-Registration-Interfaces) <br>
-  Interactive front-end interfaces built with HTML, CSS, and JavaScript, focusing on animations, responsiveness, and user experience.
-
-- [**Python Projects**](https://github.com/SherrylouOfficial/Python-Projects)  
-  Entry-level console applications and simple Pygame projects focused on logic, control flow, and user interaction.
-
----
-
 ## 💽 GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
@@ -48,9 +44,3 @@ I am continuously expanding my technical skill set through personal projects and
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=SherrylouOfficial&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=SherrylouOfficial&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
----
-
-## 🔗 Connect with me
- 
-- [**LinkedIn**](https://www.linkedin.com/in/basoffic/)  
-- **GitHub** You’re already here :D
