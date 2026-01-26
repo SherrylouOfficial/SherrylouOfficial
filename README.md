@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td valign="middle" width="20%" align="center">
-        <video src="voidcat.mp4" autoplay loop muted playsinline width="250"></video>
+        <img src="voidcat.gif" autoplay loop muted playsinline width="250" height="250">
     </td>
     <td valign="top">
      <br>Hi! I'm a <strong>Junior Web Developer</strong> and a recent <strong>Computer Science graduate</strong> from the Philippines. My focus is on building clean, user-friendly web interfaces while strengthening the bridge between front-end aesthetics and back-end logic.
