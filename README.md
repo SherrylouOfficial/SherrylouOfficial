@@ -3,10 +3,8 @@
 
 <table>
   <tr>
-    <td valign="middle" width="20%">
-      <div align="center">  
-        <img src="assets/voidcat.gif" alt="Void Cat" width="250px" height="250px"/>
-      </div>
+    <td valign="middle" width="20%" align="center">
+        <video src="assets/voidcat.mp4" alt="Void Cat" autoplay loop muted playsinline width="250px" height="250px"></video>
     </td>
     <td valign="top">
      <br>Hi! I'm a <strong>Junior Web Developer</strong> and a recent <strong>Computer Science graduate</strong> from the Philippines. My focus is on building clean, user-friendly web interfaces while strengthening the bridge between front-end aesthetics and back-end logic.
