@@ -7,11 +7,20 @@
         <img src="asset/voidcat.gif" autoplay loop muted playsinline width="250" height="250">
     </td>
     <td valign="top">
-     <br>Hi! I'm a <strong>Junior Web Developer</strong> and a recent <strong>Computer Science graduate</strong> from the Philippines. My focus is on building clean, user-friendly web interfaces while strengthening the bridge between front-end aesthetics and back-end logic.
+     <br><strong>Hi! I'm a Computer Science professional from the Philippines.</strong>
       <br /><br />
-      I thrive on <strong>hands-on, project-based development</strong>. I prefer turning complex concepts into visual, working implementations that prioritize <strong>structured code and usability</strong>. 
+      I specialize in building efficient, user-focused web applications and managing data-driven systems. With a strong foundation in <strong> BS Computer Science</strong>, I bridge the gap between clean front-end aesthetics and optimized back-end topic. 
       <br /><br />
-      I am a disciplined, detail-oriented professional who excels in <strong>independent and remote environments</strong>. I'm constantly experimenting with new tools to build maintainable, user-focused web applications that solve real-world problems.<br><br>
+      <strong>What I do:</strong>
+      <br />
+      • <strong>Web Development:</strong> Crafting responsive interfaces with HTML, CSS, and JavaScript. <br />
+      • <strong>Data Operations:</strong> Designing and managing structured databases using MySQL and Python. <br />
+      • <strong>System Logic:</strong> Turning complex business requirements into maintainable, structured code. <br />
+      <br>
+      I am a disciplined, detail-oriented developer who excels in independent and remote environments. Whether I'm automating a workflow with Python or architecting a React component, I prioritize usability and technical integrity.
+      <br><br>
+      <strong>Current Focus:</strong> Expanding into Full-Stack mastery with React.js and Node.js.
+      <br><br>
     </td>
   </tr>
 </table>
@@ -31,6 +40,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></p>
+  
 
 ---
 
