@@ -1,5 +1,5 @@
 # 📌 Sherrylou Bas
-## 🖳 Junior Web Developer | Data Encoder
+## 🖳 Junior Web Developer | Data Entry Specialist
 
 <table>
   <tr>
